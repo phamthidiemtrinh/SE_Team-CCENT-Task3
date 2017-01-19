@@ -92,7 +92,7 @@ ________________________________________________________________________________
  - là dãy nhị phân đài 32bit dùng kèm với địa chỉ IP
  - khi máy xác định địa chỉ mạng thì nó lấy kết quả của phép toán (IP and subnet mask) dưới dạng nhị phân
  - nếu không khai báo subnet mask kèm theo địa chỉ IP thì địa chỉ IP đó được xem là không hợp lệ
- - sử dụng prefix-length để làm ngắn lại cách ghi cả hai địa chỉ : A.B.C.D/n 9 trong đó n là só bit mạng)
+ - sử dụng prefix-length để làm ngắn lại cách ghi cả hai địa chỉ : A.B.C.D/n ( trong đó n là só bit mạng)
  
     
 
